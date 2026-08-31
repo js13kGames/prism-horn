@@ -100,8 +100,8 @@ Bosses provide a separate set of more powerful rewards.
 
 > The English article is a translated version of the original Korean post.
 
-- [English](https://kangjung.github.io/posts/en/2026-08-20-prism-horn-js13kgames-devlog)
-- [한국어 원문](https://kangjung.github.io/posts/2026-08-20-prism-horn-js13kgames-devlog)
+- [English](https://kangjung.github.io/en/2026-08-31-prism-horn-js13kgames-devlog)
+- [한국어 원문](https://kangjung.github.io/posts/2026-08-31-prism-horn-js13kgames-devlog)
 
 ## Play
 
