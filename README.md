@@ -4,11 +4,9 @@
 ![Canvas](https://img.shields.io/badge/Canvas_2D-FF4FC3.svg?style=for-the-badge)
 
 <!-- 제출 후 링크 추가 -->
-<!-- Play it now: https://js13kgames.com/2026/games/prism-horn -->
+Play it now: https://js13kgames.com/2026/games/prism-horn
 
-<!-- 대표 이미지 추가
-<img width="960" alt="PRISM HORN gameplay" src="IMAGE_URL" />
--->
+<img width="400" alt="PRISM HORN gameplay" src="cs.png" />
 
 PRISM HORN is a colorful arcade survival game created for the js13kGames 2026 competition.
 
