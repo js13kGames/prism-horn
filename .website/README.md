@@ -1,4 +1,8 @@
 ---
+genres:
+  - tower-defense
+  - shooter
+  - action
 post: https://kangjung.github.io/en/2026-08-31-prism-horn-js13kgames-devlog
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
